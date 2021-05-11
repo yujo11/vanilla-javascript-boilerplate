@@ -2,7 +2,10 @@
 
 javascript boilerplate with prettier, eslint, webpack, babael
 
-## ⚙️ setting
+<details>
+<summary> <b> ⚙️ setting </b>  </summary>
+<div markdown="1">
+
 
 ### 1. yarn init
 
@@ -87,7 +90,14 @@ yarn add -D eslint-plugin-cypress
 extends: [plugin:cypress/recommended'],
 ```
 
-## 📜 config files
+
+</div>
+</details>
+<br>
+
+<details>
+<summary> <b> 📜 config files </b>  </summary>
+<div markdown="1">
 
 ### .gitignore
 
@@ -237,3 +247,7 @@ insert_final_newline = true
   "build": "webpack --mode=production"
 },
 ```
+
+</div>
+</details>
+<br>
