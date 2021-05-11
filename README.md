@@ -1,10 +1,28 @@
 # vanilla-javascript-boilerplate
 
-javascript boilerplate with prettier, eslint, webpack, babael
+- javascript boilerplate with prettier, eslint, webpack, babael
+
+
+
+### Start
+
+```
+1. package install
+yarn 
+
+2. start dev server
+yarn dev
+
+3. build
+yarn build
+```
+
+
 
 <details>
 <summary> <b> ⚙️ setting </b>  </summary>
 <div markdown="1">
+
 
 
 ### 1. yarn init
@@ -98,6 +116,7 @@ extends: [plugin:cypress/recommended'],
 <details>
 <summary> <b> 📜 config files </b>  </summary>
 <div markdown="1">
+
 
 ### .gitignore
 
